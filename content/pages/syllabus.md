@@ -24,9 +24,54 @@ None
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| First paper (2 1/2 pages) | 15% |
-| Second paper (5 pages) | 25% |
-| Third paper (10–15 pages) | 40% |
-| Class participation | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First paper (2 1/2 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second paper (5 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Third paper (10–15 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
