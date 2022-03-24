@@ -136,7 +136,7 @@ Johnston, Thomas F. "[The Role of Music within the Context of an African Social 
 The Climate Engineers: Making Rain in Africa?
 {{< tdclose >}}
 {{< tdopen >}}
-Muguti, Tasara, and Richard Shadreck Maposa. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Indigenous Weather Forecasting: A Phenomenological Study Engaging the Shona of Zimbabwe." (PDF)](http://www.jpanafrican.org/docs/vol4no9/4.9Indigenous.pdf) _The Journal of Pan African Studies_ 4, no. 9 (2012).
+Muguti, Tasara, and Richard Shadreck Maposa. ["Indigenous Weather Forecasting: A Phenomenological Study Engaging the Shona of Zimbabwe." (PDF)](http://www.jpanafrican.org/docs/vol4no9/4.9Indigenous.pdf) _The Journal of Pan African Studies_ 4, no. 9 (2012).
 {{< tdclose >}}
 
 {{< trclose >}}
